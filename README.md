@@ -1,7 +1,7 @@
 # SKLEP
 <html>
 	<head>
-		<title></title>
+		<title>SKLEP</title>
 	</head>
 
 	<body bgcolor="black">
