@@ -9,7 +9,7 @@
 
 <br>
 <a href="https://wwwstrona.github.io/SANTOS/" target="_blank">
-<p><img src="BRAKZAWARTOSCI.png" width="350"></p>
+<p><img src="POWRÓT.png" width="250"></p>
 </a>
 
 <br>
