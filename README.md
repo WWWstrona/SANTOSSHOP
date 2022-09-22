@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>SANTOS SHOP</title>
+		<title></title>
 	</head>
 
 	<body bgcolor="black">
